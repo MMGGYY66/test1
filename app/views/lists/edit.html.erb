@@ -1,0 +1,10 @@
+<h1>Editing todo</h1>
+
+<%= render "form", list: @list %>
+
+<br>
+
+<div>
+  <%= link_to "Show todo", @list %> |
+  <%= link_to "Back to all todos", lists_path %>
+</div>
