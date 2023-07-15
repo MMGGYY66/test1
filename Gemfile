@@ -7,6 +7,9 @@ gem 'bootstrap', '~> 5.2', '>= 5.2.3'
 
 gem 'jquery-rails'
 
+gem 'postgresql', '~> 1.0'
+
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.6"
 
